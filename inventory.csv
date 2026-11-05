@@ -1,0 +1,4 @@
+product_id,name,category,quantity,min_stock,expiry_date
+P101,Hand Sanitizer,Healthcare,18,20,2026-12-10
+P102,Packaging Boxes,Packaging,250,50,
+P103,Protein Bars,Food,40,15,2026-11-20
